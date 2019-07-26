@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreyPhotoShop_LHD", "GreyPhotoShop_LHD\GreyPhotoShop_LHD.csproj", "{BE116D22-9D0E-40FA-8F1B-245B50FEA0CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPhotoShop_LHD", "ColorPhotoShop_LHD\ColorPhotoShop_LHD.csproj", "{0AFBCBBF-0DC0-4E31-BE49-D47530D6A6AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE116D22-9D0E-40FA-8F1B-245B50FEA0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE116D22-9D0E-40FA-8F1B-245B50FEA0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE116D22-9D0E-40FA-8F1B-245B50FEA0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE116D22-9D0E-40FA-8F1B-245B50FEA0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AFBCBBF-0DC0-4E31-BE49-D47530D6A6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFBCBBF-0DC0-4E31-BE49-D47530D6A6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFBCBBF-0DC0-4E31-BE49-D47530D6A6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFBCBBF-0DC0-4E31-BE49-D47530D6A6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E60219D-0ADB-4222-93EB-7FC7BE8FC026}
+	EndGlobalSection
+EndGlobal
